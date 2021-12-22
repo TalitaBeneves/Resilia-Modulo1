@@ -1,4 +1,4 @@
-//**************Fase 1 - Chanves**************
+//**************Fase 1 - Chaves**************
 
 function Responder() {
   
@@ -42,7 +42,7 @@ function ResponderFase2() {
   }
 }
 
-//**************Fase 3 - Chanves**************
+//**************Fase 3 - Chaves**************
 
 function ResponderFase3() {
   while(true) {    

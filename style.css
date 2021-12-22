@@ -10,6 +10,19 @@ body {
   background-color: rgb(27, 6, 85);
 }
 
+::-webkit-scrollbar {
+	width:10px;
+	height: 10px;
+}
+
+::-webkit-scrollbar-track {
+	background:#333;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #d8802e;
+}
+
 .text {
   display: block;
   color: #fc580c;

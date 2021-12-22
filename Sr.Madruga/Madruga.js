@@ -16,7 +16,7 @@ function Responder() {
       location.replace("../Sr.Madruga/MadrugaFase2.html");
       break;
     }
-    alert ("Por favor, responda com 1 ou 2.")
+    alert ("Responda com 1 ou 2.")
   }
 
 }
@@ -59,7 +59,7 @@ function ResponderFase3() {
       location.replace("../Win/win.html");
       break;
     }
-    alert ("Por favor, responda com 1 ou 2.")
+    alert ("Responda com 1 ou 2.")
   }
 }
 
