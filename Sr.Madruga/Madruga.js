@@ -35,7 +35,7 @@ function ResponderFase2() {
       location.replace("../Sr.Madruga/MadrugaFase3.html");
       break;
     } else if (option == 2) {
-      alert("GAMER OVER MANINHO(A) 😝");
+      alert("GAMER OVER MANINHO(A) 😝 \n INVASÃO DE DOMICÍLIO É CRIME 😑" );
       location.replace("../gameOver/over.html");
       break;
     }

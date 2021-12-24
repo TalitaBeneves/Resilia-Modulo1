@@ -29,7 +29,7 @@ function ResponderFase2() {
     option = prompt("1- Chiquinha A REBELDE pega a bolsa e sai correndo. \n 2- Chiquinha pensa que isso é uma loucura e volta para casa");
     
     if (option == 1) {
-      alert("Parabéns!! Vamos para a próxima fase!");
+      alert("Parabéns!! Vamos para a próxima fase! \n Lembre-se que ela é REBELDE 😝"  );
       location.replace("../Chiquinha/ChiquinhaFase3.html");
       break;
     } else if (option == 2) {
