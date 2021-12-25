@@ -24,10 +24,29 @@ body {
   border-radius: 30px;
 }
 
+.social {
+  display: flex;
+  justify-content: end;
+  margin: 20px;
+  font-size: 30px;
+}
+
+.social i {
+  padding: 10px;
+}
+
+.social a {
+  color: #d8802e;
+  transition: all .4s ease-out;
+}
+
+.social a:hover {
+  transform: scale(1.1);
+}
+
 .text {
   display: block;
   color: #fc580c;
-  margin-top: 9%;
   text-align: center;
   text-transform: uppercase;
 }
@@ -39,6 +58,7 @@ body {
   justify-content: center;
   align-items: center;
   margin-top: 2%;
+  margin-bottom: 30px;
   color: white;
 }
 
